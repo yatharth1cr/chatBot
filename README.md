@@ -1,5 +1,7 @@
 # ChatBot Project
 
+[Live Demo](https://chat-bot-eta-lemon.vercel.app/)
+
 ## Assignment Criteria
 
 1. **Project Setup**
